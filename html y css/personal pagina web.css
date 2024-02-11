@@ -1,0 +1,80 @@
+*
+{
+  background-color: black;
+  color: #f4f4f4;
+}
+header
+{
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+ header h4
+{
+  font-family: "Protest Riot", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+ header h1
+{
+  color: #212F3C ;
+  margin: 1rem;
+  padding: 1rem;
+  text-align:center ;
+  font-size: 50px;
+  font-family: "Sixtyfour", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+  "BLED" 0,
+  "SCAN" 0;
+}
+ main
+{
+  line-height: 1.6;
+  height: 50vh;
+  padding: 2rem;
+  margin: 2rem;
+  font-family: "Protest Riot", sans-serif;
+  font-weight: 400;
+}
+ .stetick 
+{
+  width: 1270px;
+  height: 450px;
+  border-width: 15px;
+  border-color: #e3e4e5 ;
+  border-style: groove;
+}
+ .yo
+{
+  width: 310px;
+  height: 320px;
+  border-width: 15px;
+  border-color: #e3e4e5 ;
+  border-style: groove;
+  float: left;
+  font-style: normal;
+  margin: 0px;
+  margin-right: 20px;
+}
+ img
+{
+  width: 1175px;
+  height: 450px;
+  border-width: 15px;
+  border-color: #5D6D7E ;
+  border-style: groove;
+}
+ .iconowhatsapp
+{
+ width: 45px;
+ height: 45px;
+ border-style: none;
+}
+ .iconoinstagram
+{
+width: 50px;
+height: 50px;
+border-style: none;
+}
